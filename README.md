@@ -1,1 +1,2 @@
-student name and regno
+student name and regno 
+student age
